@@ -1,10 +1,10 @@
 # dog.rb
-class Dog 
+class Dog
   def bark
     puts "woof woof"
-  end 
-end 
+  end
+end
 
-fido = Dog.new 
-snoopy = Dog.new 
+fido = Dog.new
+snoopy = Dog.new
 lassie = Dog.new 
